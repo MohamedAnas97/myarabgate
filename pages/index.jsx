@@ -158,7 +158,9 @@ const index5 = () => {
           <div className="row justify-content-center">
             <div className="col-lg-9">
               <div className="section-title text-center mb-55 wow fadeInUp delay-0-2s">
-                <span className="sub-title text-center font-fam ">Our Services</span>
+                <span className="sub-title text-center font-fam ">
+                  Our Services
+                </span>
                 <h2 className="text-color h2-font font-fam">
                   Quality Service is Our Guarantee
                 </h2>
@@ -214,10 +216,10 @@ const index5 = () => {
                 <div className="content">
                   <h4 className="text-color font-fam">Plumbing Services</h4>
                   <h6 className="text-color font-fam h6-font mt-10 five-line">
-                    Painting services involve applying paint to surfaces, both
-                    interior and exterior, to enhance aesthetics and protect
-                    against corrosion. Epoxy coatings are often used for
-                    flooring and provide durability and chemical resistance.
+                    Prompt and reliable plumbing services for residential,
+                    commercial, and industrial spaces. Trust our skilled team
+                    for comprehensive solutions to ensure the efficiency and
+                    safety of your water and drainage systems.
                   </h6>
                   <Link href="/plumbing-services">
                     <span>
