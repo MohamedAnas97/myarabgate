@@ -37,7 +37,10 @@ export default function App({ Component, pageProps }) {
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
-        <title>Arab Gate Technical Services</title>
+        <title>
+          Home Maintenance Services Company in Dubai,UAE - ARAB GATE Technical
+          Services
+        </title>
         <link
           rel="shortcut icon"
           href="assets/images/arab/arabgate-logo.png"
