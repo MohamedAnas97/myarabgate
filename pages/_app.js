@@ -40,7 +40,7 @@ export default function App({ Component, pageProps }) {
         <title>Arab Gate Technical Services</title>
         <link
           rel="shortcut icon"
-          href="assets/images/arab/logoicon.png"
+          href="assets/images/arab/arabgate-logo.png"
           type="image/x-icon"
         />
         <link
