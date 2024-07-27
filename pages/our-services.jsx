@@ -90,7 +90,7 @@ const ProductDetails = () => {
                 <div className="content">
                   <h5>
                     <Link legacyBehavior href="/plumbing-services">
-                      <a className="font-fam">Plumbing Services</a>
+                      <a className="font-fam ">Plumbing Services</a>
                     </Link>
                   </h5>
                   <Link href="/plumbing-services">
@@ -115,7 +115,7 @@ const ProductDetails = () => {
                 <div className="content">
                   <h5>
                     <Link legacyBehavior href="/ac-maintenance-repair">
-                      <a className="font-fam">HVAC Maintenance and Repair</a>
+                      <a className="font-fam ">HVAC Maintenance and Repair</a>
                     </Link>
                   </h5>
                   <Link href="/ac-maintenance-repair">
@@ -141,7 +141,7 @@ const ProductDetails = () => {
                 <div className="content">
                   <h5>
                     <Link legacyBehavior href="/painting-epoxy">
-                      <a className="font-fam">Painting and Epoxy</a>
+                      <a className="font-fam ">Painting and Epoxy</a>
                     </Link>
                   </h5>
                   <Link href="/painting-epoxy">
@@ -166,7 +166,7 @@ const ProductDetails = () => {
                 <div className="content">
                   <h5>
                     <Link legacyBehavior href="/cctv-security-system">
-                      <a className="font-fam"> CCTV Security Systems</a>
+                      <a className="font-fam "> CCTV Security Systems</a>
                     </Link>
                   </h5>
                   <Link href="/cctv-security-system">
@@ -191,7 +191,7 @@ const ProductDetails = () => {
                 <div className="content">
                   <h5>
                     <Link legacyBehavior href="/digital-display-signages">
-                      <a className="font-fam"> Digital Displays & Signages</a>
+                      <a className="font-fam "> Digital Displays & Signages</a>
                     </Link>
                   </h5>
                   <Link href="/digital-display-signages">
@@ -216,7 +216,7 @@ const ProductDetails = () => {
                 <div className="content">
                   <h5>
                     <Link legacyBehavior href="/display-fixtures-retail-exhibitions">
-                      <a className="font-fam">
+                      <a className="font-fam ">
                       Display Fixtures for Retail & Exhibitions
                       </a>
                     </Link>

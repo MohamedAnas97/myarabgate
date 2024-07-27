@@ -5,7 +5,7 @@ import NavSearch from "./NavSearch";
 const Header5 = ({ singleMenu }) => {
   return (
     <header className="main-header menu-absolute header-two">
-      <div className="header-top">
+      {/* <div className="header-top">
         <div className="container container-1620">
           <div className="row align-items-center">
             <div className="col-lg-7">
@@ -16,7 +16,7 @@ const Header5 = ({ singleMenu }) => {
                 </Link>
               </ul>
             </div>
-            <div className="col-lg-5">
+          
               <div className="top-right">
                 
                 <div className="social-style-two">
@@ -34,10 +34,10 @@ const Header5 = ({ singleMenu }) => {
                   </a>
                 </div>
               </div>
-            </div>
+            
           </div>
         </div>
-      </div>
+      </div> */}
       {/*Header-Upper*/}
       <div className="header-upper">
         <div className="container container-1620 clearfix">
@@ -47,7 +47,7 @@ const Header5 = ({ singleMenu }) => {
                 <Link legacyBehavior href="/">
                   <a>
                     <img
-                      src="assets/images/arab/tech3.png"
+                      src="assets/images/arab/brand.png"
                       alt="Logo"
                       title="Logo"
                       className="main-logo"

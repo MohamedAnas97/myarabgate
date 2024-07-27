@@ -37,7 +37,7 @@ const Footer3 = () => {
               <div className="footer-logo mb-20 wow fadeInRight delay-0-2s">
                 <Link legacyBehavior href="/">
                   <a>
-                    <img src="assets/images/arab/tech3.png" alt="Logo" />
+                    <img src="assets/images/arab/brand.png" alt="Logo" />
                   </a>
                 </Link>
               </div>

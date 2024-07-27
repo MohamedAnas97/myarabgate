@@ -7,7 +7,6 @@ import ContactLayout from "@/src/components/contactFooter";
 // import { Nav, Tab } from "react-bootstrap";
 import { Accordion } from "react-bootstrap";
 import { Swiper, SwiperSlide } from "swiper/react";
-import ContactForm1 from "@/src/components/ContactForm1";
 import { useState } from "react";
 const PlumbingServices = () => {
   const accordionData = [
@@ -201,7 +200,7 @@ const PlumbingServices = () => {
             </div>
             <div className="col-lg-5">
               <div className="faq-four-iamge2 wow fadeInLeft delay-0-2s">
-                <img src="assets/images/arab/person.png" alt="FAQs" />
+                <img src="assets/images/arab/c11.png" alt="FAQs" />
               </div>
             </div>
           </div>

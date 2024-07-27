@@ -43,7 +43,7 @@ export default function App({ Component, pageProps }) {
         </title>
         <link
           rel="shortcut icon"
-          href="assets/images/arab/arabgate-logo.png"
+          href="assets/images/arab/brand.png"
           type="image/x-icon"
         />
         <link

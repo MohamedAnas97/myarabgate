@@ -212,7 +212,7 @@ const CctvService = () => {
             </div>
             <div className="col-lg-5">
               <div className="faq-four-iamge2 wow fadeInLeft delay-0-2s">
-                <img src="assets/images/arab/person.png" alt="FAQs" />
+                <img src="assets/images/arab/c11.png" alt="FAQs" />
               </div>
             </div>
           </div>

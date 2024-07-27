@@ -11,12 +11,12 @@ const Nav = ({ singleMenu }) => {
   return (
     <nav className="main-menu navbar-expand-lg">
       <Accordion>
-        <div className="navbar-header py-10">
+        <div className="navbar-header ">
           <div className="mobile-logo ">
             <Link legacyBehavior href="/">
               <a>
                 <img
-                  src="assets/images/arab/tech3.png"
+                  src="assets/images/arab/brand.png"
                   alt="Logo"
                   title="Logo"
                   className="main-logo"

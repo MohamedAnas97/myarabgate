@@ -45,9 +45,9 @@ const index5 = () => {
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div className="service-item style-three wow fadeInUp delay-0-2s">
                 <div className="icon">
-                  <img src="/assets/images/arab/interior.png" alt="" />
+                  <img src="/assets/images/arab/c1.png" alt="" />
                 </div>
-                <h4 className="font-fam h4-font">
+                <h4 className="font-fam h4-font ">
                   <Link href="/interior-fitout">
                     Interior Fit-Out and Renovation
                   </Link>
@@ -57,7 +57,7 @@ const index5 = () => {
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div className="service-item style-three wow fadeInUp delay-0-2s">
                 <div className="icon">
-                  <img src="/assets/images/arab/electric-service.png" alt="" />
+                  <img src="/assets/images/arab/c2.png" alt="" />
                 </div>
                 <h4 className="font-fam h4-font">
                   <Link href="/electrical-services">Electrical Services</Link>
@@ -67,7 +67,7 @@ const index5 = () => {
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div className="service-item style-three wow fadeInUp delay-0-2s">
                 <div className="icon">
-                  <img src="/assets/images/arab/plumbing.png" alt="" />
+                  <img src="/assets/images/arab/c3.png" alt="" />
                 </div>
                 <h4 className="font-fam h4-font">
                   <Link href="/plumbing-services">Plumbing Services</Link>
@@ -77,7 +77,7 @@ const index5 = () => {
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div className="service-item style-three wow fadeInUp delay-0-2s">
                 <div className="icon">
-                  <img src="/assets/images/arab/maintenance.png" alt="" />
+                  <img src="/assets/images/arab/c4.png" alt="" />
                 </div>
                 <h4 className="font-fam h4-font">
                   <Link href="/ac-maintenance-repair">
@@ -89,7 +89,7 @@ const index5 = () => {
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div className="service-item style-three wow fadeInUp delay-0-2s">
                 <div className="icon">
-                  <img src="/assets/images/arab/painting-roll.png" alt="" />
+                  <img src="/assets/images/arab/c5.png" alt="" />
                 </div>
                 <h4 className="font-fam h4-font">
                   <Link href="/painting-epoxy">Painting and Epoxy</Link>
@@ -99,7 +99,7 @@ const index5 = () => {
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div className="service-item style-three wow fadeInUp delay-0-2s">
                 <div className="icon">
-                  <img src="/assets/images/arab/cctv-camera.png" alt="" />
+                  <img src="/assets/images/arab/c6.png" alt="" />
                 </div>
 
                 <h4 className="font-fam h4-font">
@@ -112,7 +112,7 @@ const index5 = () => {
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div className="service-item style-three wow fadeInUp delay-0-2s">
                 <div className="icon">
-                  <img src="/assets/images/arab/display.png" alt="" />
+                  <img src="/assets/images/arab/c7.png" alt="" />
                 </div>
                 <h4 className="font-fam h4-font">
                   <Link href="/digital-display-signages">
@@ -124,7 +124,7 @@ const index5 = () => {
             <div className="col-xl-3 col-lg-4 col-md-6">
               <div className="service-item style-three wow fadeInUp delay-0-2s">
                 <div className="icon">
-                  <img src="/assets/images/arab/in-store-display.png" alt="" />
+                  <img src="/assets/images/arab/c8.png" alt="" />
                 </div>
                 <h4 className="font-fam h4-font">
                   <Link href="/display-fixtures-retail-exhibitions">
@@ -455,7 +455,7 @@ const index5 = () => {
 
             <div className="col-lg-5">
               <div className="faq-four-iamge wow fadeInLeft delay-0-2s">
-                <img src="assets/images/arab/person.png" alt="FAQs" />
+                <img src="assets/images/arab/c11.png" alt="FAQs" />
               </div>
             </div>
           </div>
