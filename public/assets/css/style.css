@@ -6737,14 +6737,14 @@ h6,
 }
 @media (max-width: 768px) and (min-width: 568px) {
   .service-item.style-three {
-    height: 155px;
+    height: 185px;
   }
 }
 @media (max-width: 567px) and (min-width: 410px) {
   .service-item.style-three {
     padding-left: 20px;
     padding-right: 10px;
-    height: 140px;
+    height: 165px;
   }
 }
 
@@ -6777,7 +6777,7 @@ h6,
 
 @media only screen and (max-width: 479px) {
   .service-item.style-three h4 {
-    font-size: 20px;
+    font-size: 18px;
   }
 }
 .service-item.style-three h4 a:hover {
