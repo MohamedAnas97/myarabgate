@@ -1004,7 +1004,7 @@ a.theme-btn.style-three {
 }
 
 .preloader .logo-wrapper .logo {
-  width: 110px; 
+  width: 110px;
   height: 70px;
 }
 
@@ -1012,16 +1012,16 @@ a.theme-btn.style-three {
   position: absolute;
   display: flex;
   justify-content: center;
-  width: 60px; 
+  width: 60px;
   margin-top: 100px;
 }
 
 .preloader .logo-wrapper .custom-loader .dot {
   width: 8px;
-  height: 8px; 
+  height: 8px;
   border-radius: 50%;
   margin: 3px;
-  background-color: #fcae21; 
+  background-color: #fcae21;
   animation: loadingDots 2s infinite ease-in-out both;
 }
 
@@ -1034,14 +1034,15 @@ a.theme-btn.style-three {
 }
 
 @keyframes loadingDots {
-  0%, 80%, 100% {
+  0%,
+  80%,
+  100% {
     transform: scale(0);
   }
   40% {
     transform: scale(1);
   }
 }
-
 
 /* Pagination */
 .pagination {
@@ -4327,11 +4328,16 @@ h6,
   background-color: #ffffff;
   color: #fff;
 }
+@media (max-width: 768px) and (min-width: 250px) {
+  .main-header.menu-absolute .header-upper {
+    background-color: #ffffff52;
+  }
+}
 .main-header.fixed-header .header-upper {
   top: 0;
   left: 0;
   position: fixed;
-  background: #FFF;
+  background: #fff;
   /* background: #333d4d; */
   -webkit-animation: sticky 1s;
   animation: sticky 1s;
@@ -4389,7 +4395,6 @@ h6,
   }
   .main-menu .navbar-collapse > ul > li:last-child {
     border-bottom: 1px solid var(--ygency-border-color);
-   
   }
 }
 @media only screen and (min-width: 992px) {
@@ -4937,7 +4942,6 @@ h6,
   opacity: 1;
 }
 
-
 @media only screen and (max-width: 767px) {
   .header-top {
     padding-top: 5px;
@@ -4999,7 +5003,6 @@ h6,
   .header-top .top-right {
     -webkit-box-pack: end;
     -ms-flex-pack: end;
-    
   }
 }
 .header-top .top-right .lang-select {
@@ -12106,7 +12109,7 @@ blockquote .blockquote-footer:before {
   font-size: 20px !important;
   color: #fff !important;
 }
-.h4-font  {
+.h4-font {
   font-size: 20px !important;
 }
 
@@ -12151,7 +12154,6 @@ blockquote .blockquote-footer:before {
     font-size: 13px !important;
   }
 }
-
 
 .org-color {
   color: #fcae21;
