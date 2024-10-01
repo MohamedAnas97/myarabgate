@@ -55,14 +55,6 @@ export default function App({ Component, pageProps }) {
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5945029455161255"
           crossorigin="anonymous"
         ></script>
-        <ins
-          class="adsbygoogle"
-          style="display:block"
-          data-ad-format="autorelaxed"
-          data-ad-client="ca-pub-5945029455161255"
-          data-ad-slot="5378952863"
-        ></ins>
-        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </Head>
       {!loaded && <PreLoader />}
       {loaded && <Component {...pageProps} />}
