@@ -3,6 +3,7 @@ import Layout from "@/src/layout/Layout";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
 import Link from "next/link";
+import { useEffect } from "react";
 import ReactPlayer from "react-player";
 import ContactLayout from "@/src/components/contactFooter";
 
@@ -31,10 +32,15 @@ const index5 = () => {
   };
   const video =
     "https://public-general-s3-bucket-gng.s3.amazonaws.com/arab-gate.mp4";
+
   return (
     <Layout footer={5} header={5}>
       <Home5Slider />
       <section className="what-we-offer pb-90 rpb-50">
+        
+       
+      
+
         <div className="container container-1290">
           <div className="section-title text-center mt-60 mb-40 wow fadeInUp delay-0-2s">
             <h3 className="text-color font-fam h2-font">
